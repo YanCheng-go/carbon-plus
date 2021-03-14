@@ -1,6 +1,6 @@
 # Carbon + Census Interactive Visualization Tool
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/YanCheng-go/carbon-plus.git/HEAD?filepath=https%3A%2F%2Fgithub.com%2FYanCheng-go%2Fcarbon-plus%2Fblob%2Fmaster%2FCarbon_plus_Colab_v2_app.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/YanCheng-go/carbon-plus/HEAD)
 
 To lunch the interactive visualization tool, please click the binder badge.
 
