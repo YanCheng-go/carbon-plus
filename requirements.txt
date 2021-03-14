@@ -10,3 +10,5 @@ numpy==1.19.5
 urllib3==1.24.3
 xlrd==1.1.0
 statsmodels==0.10.2
+appmode==0.8.0
+jupyter_contrib_nbextensions==0.5.1
