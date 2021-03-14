@@ -1,9 +1,6 @@
 # Carbon + Census Interactive Visualization Tool
 
-[![Binder](https://mybinder.org/v2/gh/YanCheng-go/carbon-plus/85d814c7c7325599207f054b03b7e860a655e12d)
-
-
-To lunch the interactive visualization tool, please click the binder badge.
+To lunch the interactive visualization tool, please click here [![Binder](https://hub-binder.mybinder.ovh/user/yancheng-go-carbon-plus-58bait3a/apps/Carbon_plus_Colab_v2_app.ipynb?appmode_scroll=0).
 
 Using the `appmode` Jupyter plugin, a notebook's code will be run, and then only the markdown cells and
 code outputs will be shown.
